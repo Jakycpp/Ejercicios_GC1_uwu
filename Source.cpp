@@ -47,6 +47,7 @@ const char* fragmentShaderSourceWithColor = "#version 330 core\n"
 
 int main()
 {
+    //Esto funciona :oo
     // glfw: initialize and configure
     // ------------------------------
     glfwInit();
