@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\gl\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\mluce\Pictures\Ejercicios Mod3 GC1\OGL_RUBIK_CUBE\OGL_RUBIK_CUBE\main.cpp(212,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mluce\Pictures\Ejercicios Mod3 GC1\OGL_RUBIK_CUBE\OGL_RUBIK_CUBE\main.cpp(238,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\mluce\Pictures\Ejercicios Mod3 GC1\OGL_RUBIK_CUBE\OGL_RUBIK_CUBE\main.cpp(243,30): warning C4305: '=': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  OGL_RUBIK_CUBE.vcxproj -> C:\Users\mluce\Pictures\Ejercicios Mod3 GC1\OGL_RUBIK_CUBE\Debug\OGL_RUBIK_CUBE.exe
